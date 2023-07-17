@@ -1,4 +1,4 @@
-# Interactive-Multiple-Point-Cloud-Rendering-using-GPU-based-Raytracing
+# Interactive-Multiple-Point-Cloud-Rendering-using-GPU-based-Raytracing ONLY PUBLIC ACCESS!!!!
 
 ## Table of Contents
 - [Abstract](#abstract)
@@ -30,13 +30,7 @@ This thesis addresses the challenging task of visualizing 3D point cloud data in
 ## Getting Started
 
 ### Downloading the Repository
-1. Navigate to the main page of the repository on GitHub.
-2. Above the list of files, click the green button "Code".
-3. To clone the repository using HTTPS, under "Clone with HTTPS", click the clipboard icon. To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click Use SSH, then click the clipboard icon.
-4. Open Terminal.
-5. Change the current working directory to the location where you want the cloned directory.
-6. Type 'git clone', and then paste the URL you copied earlier.
-7. Press Enter to create your local clone.
+Contact with me por more information.
 
 ### Running the Demo
 1. Navigate to the `demo` directory in the cloned repository.
